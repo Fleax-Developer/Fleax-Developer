@@ -10,6 +10,6 @@
 
 
 
-# Only Fleax 🔮 Thanks for visiting my profile. See you. 👋
+# Only Fleax 🔮 
 
-If there is an important issue or project you want to report, please report it to Fleax#1573. 🚀
+If there is an important issue or project you want to report, please report it to Fleax#1573. Thanks for visiting my profile. See you 👋
