@@ -1,4 +1,4 @@
-Hi!👋 
+# Hi! 👋 
 
 ♦️ I spend more days coding and playing games. I am improving myself over Javascript. I am interested in software languages ​​such as C # and Python.
 
@@ -8,7 +8,7 @@ Hi!👋
 
 
 
-
+# Fleax#1573 💖
 
 
 
